@@ -27,9 +27,9 @@ Each day includes:
 
 | Day | Topic | Status |
 |-----|-------------------------------|--------|
-| 1 | CSS Selectors, Specificity | 🔲 |
-| 2 | Box Model | 🔲 |
-| 3 | Typography | 🔲 |
+| 1 | CSS Selectors, Specificity | ☑ |
+| 2 | Box Model | ☑ |
+| 3 | Typography | ☑ |
 | 4 | Backgrounds & Gradients | 🔲 |
 | 5 | CSS Units | 🔲 |
 | 6 | Mini Project: Business Card | 🔲 |
